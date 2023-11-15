@@ -1,0 +1,70 @@
+body {
+    background-color: #f9f5eb; 
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.navbar {
+    background-color: #f5f5f5;
+}
+
+.navbar-brand {
+    color: #1b4965; 
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #1b4965; 
+}
+.select,
+.clima {
+    background-color: #ffffff; 
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+    background-color: #1b4965; 
+    border-color: #1b4965; 
+}
+
+.btn-primary:hover {
+    background-color: #125e78; 
+    border-color: #125e78; 
+}
+
+
+h1, h4 {
+    color: #1b4965; 
+}
+
+
+.imagenClima {
+    max-width: 100px;
+}
+
+.valoresClima {
+    margin-top: 20px;
+}
+
+
+.nav-item.active .nav-link {
+    color: #125e78; 
+}
+
+
+.navbar-toggler-icon {
+    background-color: #1b4965; 
+}
+
+.parteA{
+    display: inline-block;
+}
+.parteB{
+    display: inline-block;
+}
